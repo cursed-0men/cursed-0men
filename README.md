@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhyey Savaliya
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python
 - 📫 To reach me, please send me "hi" on dhyeysavalia01@gmail.com
 
 <!---
