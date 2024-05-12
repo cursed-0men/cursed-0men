@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhyey Savaliya
-- 👀 I’m interested in AI.
+- 👀 I’m interested in ML, Figma UI design.
 - 🌱 I’m currently learning C++, Python
 - 📫 To reach me, please send me "hi" on dhyeysavalia01@gmail.com
 
