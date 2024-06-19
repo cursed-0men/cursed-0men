@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhyey Savaliya</h1>
 <h3 align="center">Passionate about Machine Learning🤖 and UI design🎨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cursed-0men&label=Profile%20views&color=0e75b6&style=flat" alt="cursed-0men" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cursed-0men" alt="cursed-0men" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Figma UI design**
