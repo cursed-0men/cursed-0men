@@ -7,7 +7,7 @@
 
 - 👨‍💻 My UI design page [https://www.instagram.com/ui.paradigm/](https://www.instagram.com/ui.paradigm/)
 
-- 📝 My UI portfolio [https://dhyeys.notion.site/Dhyey-Savaliya-aab5227d81f04a7b87d161870c6ffd7f?pvs=4](https://dhyeys.notion.site/Dhyey-Savaliya-aab5227d81f04a7b87d161870c6ffd7f?pvs=4)
+- 📝 My UI portfolio [https://sites.google.com/view/dhyeys-ui-paradigm]
 
 - 📫 How to reach me **dhyeysavalia01@gmail.com**
 
