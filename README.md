@@ -13,11 +13,11 @@
 
 # 🌱 I’m currently learning* ***Python and Figma UI design***
 
-## 👨‍💻 *My UI design page:* [***My Instagram Page***](https://www.instagram.com/ui.paradigm/)
+## 👨‍💻 [***My Instagram UI Page***](https://www.instagram.com/ui.paradigm/)
 
-## 📝 *Check out my UI portfolio:* [***Visit My UI Portfolio***](https://sites.google.com/view/dhyeys-ui-paradigm)
+## 📝 [***My UI Portfolio***](https://sites.google.com/view/dhyeys-ui-paradigm)
 
-## 📫 *How to reach me:* ***dhyeysavalia01@gmail.com***
+## 📫 *Reach me:* ***dhyeysavalia01@gmail.com***
 
 
 <h3 align="left">🌐 Connect with me:</h3>
