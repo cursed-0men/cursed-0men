@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=fcba031&center=true&vCenter=true&width=450&lines=I+Love+Learning+New+Things!+;Python+Enthusiast+,+Figma+UI+Designer!;Building+Creative+Designs+💻">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=fcba03&center=true&vCenter=true&width=450&lines=I+Love+Learning+New+Things!+;Python+Enthusiast+,+Figma+UI+Designer!;Building+Creative+Designs+💻">
 </p>
 
 # 🌱 *I’m currently learning* ***Python and Figma UI design***
