@@ -11,13 +11,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7A87D1&center=true&vCenter=true&width=450&lines=I+Love+Learning+New+Things!+;Python+Enthusiast+,+Figma+UI+Designer!;Building+Creative+Designs+💻">
 </p>
 
-# 🌱 I’m currently learning* ***Python and Figma UI design***
+# 🌱 *I’m currently learning* ***Python and Figma UI design***
 
-## 👨‍💻 [***My Instagram UI Page***](https://www.instagram.com/ui.paradigm/)
+## 👨‍💻 *My UI design page:* [***Click to View on Instagram***](https://www.instagram.com/ui.paradigm/)
 
-## 📝 [***My UI Portfolio***](https://sites.google.com/view/dhyeys-ui-paradigm)
+## 📝 *My UI portfolio:* [***Visit My Portfolio***](https://sites.google.com/view/dhyeys-ui-paradigm)
 
-## 📫 *Reach me:* ***dhyeysavalia01@gmail.com***
+## 📫 *Reach me:* ***noneedofname1004@gmail.com***
 
 
 <h3 align="left">🌐 Connect with me:</h3>
