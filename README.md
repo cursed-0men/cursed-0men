@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhyey Savaliya</h1>
-##<h3 align="center">🚀 Passionate about Machine Learning and UI Design 🎨</h3>
+<h3 align="center">#🚀 Passionate about Machine Learning and UI Design 🎨</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
