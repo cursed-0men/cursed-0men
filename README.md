@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=fcba03&center=true&vCenter=true&width=450&lines=I+Love+Learning+New+Things!+;Python+Enthusiast,+Figma+UI+Designer!;Building+Creative+Designs+💻">
 </p>
 
-# 🌱 I’m currently learning ***Python and Figma UI design***
+# 🚀🚀 I’m currently learning ***Python and Figma UI design***
 
 ## 👨‍💻 My UI design page: [***Click to View on Instagram***](https://www.instagram.com/ui.paradigm/)
 
