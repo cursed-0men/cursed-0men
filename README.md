@@ -13,7 +13,7 @@
 
 ---
 
-### 🌱 What I'm Learning Right Now  
+### 🌱 <span style="color:#FCBA03;">What I'm Learning Right Now</span>  
 🚀 **Python** for Machine Learning and 🎨 **Figma UI Design**  
 📊 Exploring **Data Science** with tools like **Pandas** and **Tableau**  
 🛠 Problem-solving using **C/C++**
