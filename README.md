@@ -13,7 +13,7 @@
 
 ---
 
-### 🌱 What I'm Learning Right Now  
+## 🌱 What I'm Learning Right Now  
 🚀 **Python** for Machine Learning and 🎨 **Figma UI Design**  
 📊 Exploring **Data Science** with tools like **Pandas** and **Tableau**  
 🛠 Problem-solving using **C/C++**
@@ -21,21 +21,24 @@
 
 ---
 
-### 🖌️ UI/UX Design Showcase  
+## 🖌️ UI/UX Design Showcase  
 📸 **My UI Instagram Page:** [UI Paradigm](https://www.instagram.com/ui.paradigm/)  
 🌐 **UI Portfolio:** [Visit My Portfolio](https://sites.google.com/view/dhyeys-ui-paradigm)
 
 ---
 
-### 💬 Reach Me At  
+## 💬 Reach Me At  
 📧 **Email:** dhyeysavalia01@gmail.com  
-🌐 **LinkedIn:** [Dhyey Savaliya](https://linkedin.com/in/dhyey-savaliya-632bb4246)  
+
+🌐 **LinkedIn:** [Dhyey Savaliya](https://linkedin.com/in/dhyey-savaliya-632bb4246) 
+
 📸 **Instagram:** [dhyey.xo](https://instagram.com/dhyey.xo)  
+
 👨‍💻 **HackerRank:** [lucifermrngstr01](https://www.hackerrank.com/lucifermrngstr01)
 
 ---
 
-### 🛠️ Skills and Tools  
+## 🛠️ Skills and Tools  
 
 #### Programming  
 <p>
@@ -60,24 +63,27 @@
 
 ---
 
-### 📈 GitHub Stats  
+## 📈 GitHub Stats  
+<!--<p align="center">-->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=cursed-0men&show_icons=true&theme=gruvbox&hide_title=true" alt="GitHub Stats">-->
+<!--</p>-->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cursed-0men&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages">
 </p>
 
 ---
 
-### 🌟 Fun Fact  
-🔥 I'm curious about, **What happens if I don't give up!!**  
-✏️ **I follow:** "Consistency"
-
----
-
-### 🎯 Current Goals  
+## 🎯 Current Goals  
 - 💻 Strengthen my problem-solving skills
 - 🤖 Study Machine learning. 
 - 🌍 Build impactful projects regarding **sustainable development goals**
 
 ---
 
+## 🌟 Fun Fact  
+🔥 I'm curious about, **What happens if I don't give up!!**  
+✏️ **I follow:** "Consistency"
+
+---
 **Thank you for visiting my profile! Let's connect and grow together 🚀**  
