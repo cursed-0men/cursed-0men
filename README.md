@@ -62,10 +62,6 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cursed-0men&show_icons=true&theme=gruvbox&hide_title=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cursed-0men&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages">
 </p>
 
