@@ -83,7 +83,7 @@
 
 ## 🌟 Fun Fact  
 🔥 I'm curious about, **What happens if I don't give up!!**  
-✏️ **I follow:** "Consistency"
+✏️ **I follow:** "Perseverence"
 
 ---
 # Thank you for visiting my profile! Let's connect and grow together 🚀🚀
