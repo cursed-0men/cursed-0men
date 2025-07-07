@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate about Machine Learning, UI Design, and Crafting Creative Solutions 🎨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FCBA03&center=true&vCenter=true&width=500&lines=Python+Enthusiast+%F0%9F%90%8D+|+Figma+UI+Designer;Lifelong+Learner+%F0%9F%8C%8D;Building+Creative+Projects+%F0%9F%92%BB;Exploring+Data+Analyt+and+Visualization;Embracing+Minimalist+Designs+%F0%9F%96%8A%EF%B8%8F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFB700&center=true&vCenter=true&width=500&lines=Python+Enthusiast+%F0%9F%90%8D+|+Figma+UI+Designer;Lifelong+Learner+%F0%9F%8C%8D;Building+Creative+Projects+%F0%9F%92%BB;Exploring+Machine+Learning+and+Visualization;Embracing+Minimalist+Designs+%F0%9F%96%8A%EF%B8%8F" alt="Typing SVG">
 </p>
 
 <p align="center">
