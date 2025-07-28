@@ -77,7 +77,7 @@
 ## 🎯 Current Goals  
 - 💻 Strengthen my problem-solving skills
 - 🤖 Study Machine learning. 
-- 🌍 Build impactful projects regarding **sustainable development goals**
+- 🌍 Build impactful projects regarding **Space Programs**
 
 ---
 
