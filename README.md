@@ -134,3 +134,7 @@ I'm a passionate apprentice, who believes in the power of technology to solve re
 ⭐ **If you find my work interesting, consider giving it a star!** ⭐
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</div>
