@@ -3,17 +3,15 @@
 </div>
 <div align="center">
 
-# Hello there...I'm <span style='color:yellow'>Dhyey Savaliya</span>
-
+# Hello there😄...I'm <span style='color:yellow'>Dhyey Savaliya</span>
+ 
 <div align="center">
   
 ###  *Transforming Data into Discovery • Code into Cosmos* 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FBF000&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%A4%96+Machine+Learning+Enthusiast;%F0%9F%8C%8C+Building+Tomorrow's+Intelligent+Systems" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FBF000&center=true&vCenter=true&width=900&height=70&lines=🤖+Machine+Learning+Ennthusiast;🌌+Building+Tomorrow's+Intelligent+Systems+" alt="Typing Animation">
 </p>
-<p align="center">
-
 
 <p align="center">
   <a href="https://linkedin.com/in/dhyey-savaliya-632bb4246">
@@ -32,21 +30,24 @@
 
 <img align="right" alt="Coding Animation" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-> ### *"What happens if I don't give up? The impossible becomes inevitable."*
-
-I'm a passionate **Machine Learning Engineer** with curiosity for **space technology** and **artificial intelligence**. My journey revolves around transforming complex data into actionable insights and building intelligent systems that push the boundaries of what's possible.
+### *"What happens if I don't give up? The impossible becomes inevitable."*
+<div align = 'left'>
+I'm a passionate Machine Learning Engineer with curiosity for space technology and artificial intelligence. My journey revolves around transforming complex data into actionable insights and building intelligent systems that push the boundaries of what's possible.
+</div>
+<br>
+<div align="left">
+🎯 Current Obsessions:<br>
+- 🛰️ Space ML Applications → Satellite data analysis & orbital predictions
+<br>
+- 🧠 Research work → Research based ML  
+<br>
+- 🌍 Environmental AI → Climate modeling & atmospheric prediction systems
 
 <br>
-
-**🎯 Current Obsessions:**
-- 🛰️ **Space ML Applications** → Satellite data analysis & orbital predictions
-- 🧠 **Research work** → Research based ML  
-- 🌍 **Environmental AI** → Climate modeling & atmospheric prediction systems
-
 <br>
-
-**💭 Core Philosophy:**
-*FORGE AHEAD ⚡️*
+💭 Core Philosophy:
+FORGE AHEAD ⚡️
+</div>
 
 <br clear="right"/>
 
@@ -54,7 +55,7 @@ I'm a passionate **Machine Learning Engineer** with curiosity for **space techno
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech. Arsenal
 
 <div align="center">
 
