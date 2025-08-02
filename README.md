@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dhyey-savaliya-632bb4246">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-FBF000?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FBF000&color=gradient" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/_LinkedIn-FBF000?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FBF000&color=gradient" alt="LinkedIn">
   </a>
   <a href="mailto:dhyeysavalia01@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=ffffff" alt="Email">
+    <img src="https://img.shields.io/badge/_Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=ffffff" alt="Email">
   </a>
  
 
