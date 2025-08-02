@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=280&section=header&text=Dhyey%20Savaliya&fontSize=80&fontAlignY=35&desc=Machine%20Learning%20and Space%20Tech%20Enthusiast&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=280&section=header&animation=fadeIn" alt="Header"/>
 </div>
+<div align="center">
+
+# Hello there...I'm <span style='color:yellow'>Dhyey Savaliya</span>
 
 <div align="center">
   
