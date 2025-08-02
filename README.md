@@ -10,8 +10,10 @@
 ###  *Transforming Data into Discovery • Code into Cosmos* 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FBF000&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%A4%96+Machine+Learning+Enthusiast;%F0%9F%9A%80+Space+Technology+Pioneer;%F0%9F%A7%A0+Deep+Learning+Researcher;%F0%9F%8C%8C+Building+Tomorrow's+Intelligent+Systems" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FBF000&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%A4%96+Machine+Learning+Enthusiast;%F0%9F%8C%8C+Building+Tomorrow's+Intelligent+Systems" alt="Typing Animation">
 </p>
+<p align="center">
+
 
 <p align="center">
   <a href="https://linkedin.com/in/dhyey-savaliya-632bb4246">
