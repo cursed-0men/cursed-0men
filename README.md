@@ -8,7 +8,6 @@
   </p>
 
   <!-- Quote -->
-<h1 align="center"><span style = 'color:orange'>力</span></h1>
 
   <!-- Links -->
   <p>
