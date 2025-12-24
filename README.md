@@ -20,7 +20,7 @@
 
 ```python
 # ================================
-# 🔹 PROFILE CORE
+# 🔹 CORE INFO
 # ================================
 class DhyeySavaliya:
     def __init__(self):
