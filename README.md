@@ -35,7 +35,7 @@ class DhyeySavaliya:
         return {
             "languages": ["Python", "C++"],                     
             "ml_stack": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],  
-            "database": ["MySQL"],                              #
+            "database": ["MySQL"],                              
             "tools": ["Git", "GitHub", "Jupyter", "Tableau"]    
         }
 
