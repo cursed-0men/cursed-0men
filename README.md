@@ -12,7 +12,7 @@
   <!-- Links -->
   <p>
     <a href="https://linkedin.com/in/dhyey-savaliya-632bb4246">LinkedIn</a> ·
-    <a href="mailto:dhyeysavalia01@gmail.com">Email</a>
+    <a href="mailto:dhyeysavalia01@gmail.com">Email</a> ·
     <a href="https://drive.google.com/file/d/1VbzAev-tmo6XkHZdyevrnx02SV-e_tid/view?usp=sharing">Resume</a>
     </p>
 
