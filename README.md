@@ -62,3 +62,6 @@ class DhyeySavaliya:
     # ================================
     def achievements(self):
         return "🥉 3rd Place — HackMITWPU’24 Ideathon (Healthcare ML)"
+```
+<!-- Quote -->
+<h1 align="center"><span style = 'color:gold'>力</span></h1>
