@@ -26,7 +26,7 @@ class DhyeySavaliya:
     def __init__(self):
         self.name = "Dhyey Savaliya"                  
         self.education = "B.Tech CSE @ MIT-WPU, Pune" 
-        self.metrics = {"CGPA": 7.6}                  
+        self.metrics = {"CGPA": 7.75}                  
         self.status = "Intern at SAC-ISRO" 
 
     # ================================
