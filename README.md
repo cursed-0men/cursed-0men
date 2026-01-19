@@ -21,7 +21,7 @@ class DhyeySavaliya:
     def __init__(self):
         self.name = "Dhyey Savaliya"
         self.education = "B.Tech CSE @ MIT-WPU, Pune"
-        self.cgpa = 7.6
+        self.cgpa = 7.75
         self.current_role = "Intern at SAC-ISRO"
 
     # ================================
