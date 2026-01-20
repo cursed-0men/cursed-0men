@@ -6,7 +6,7 @@
 
 [LinkedIn](https://linkedin.com/in/dhyey-savaliya-632bb4246) ·
 [Email](mailto:dhyeysavalia01@gmail.com) ·
-[Resume](https://drive.google.com/file/d/1j6qe8Qpoaw8TvfaGci3mcscIKeKOCBw2/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1s2y4GR1SUhjq4hxO1tnlWLm1nLuhSSl7/view?usp=sharing)
 </div>
 
 ---
